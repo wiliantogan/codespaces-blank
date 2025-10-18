@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-![Wilianto](.images/profile.jpeg)
+![Wilianto](https://media.licdn.com/dms/image/v2/C5603AQFHO5jYee_dLg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1532489349352?e=1762387200&v=beta&t=NJ0RE3nAiw8Zzl1LOoT3QC2gPYB_OmHTG4SwMbA3i_o)
 
 ## Data Pribadi
 
@@ -30,3 +30,8 @@
 - **Framework & Library:** React, Node.js, Express, Bootstrap
 - **Database:** MySQL, MongoDB, SQLite
 - **Tools:** Git Figma, VS Code 
+
+## Bahasa
+
+- Bahasa Indonesia (Lancar)
+- Bahasa Inggris (Lancar)
